@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**gablessconsulting/gablessconsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ambulatory.html](https://github.com/user-attachments/files/24357993/ambulatory.html)
+[care.html](https://github.com/user-attachments/files/24357994/care.html)[trends.html](https://github.com/user-attachments/files/24358007/trends.html)
+[telemedicine.html](https://github.com/user-attachments/files/24358006/telemedicine.html)
+[style.css](https://github.com/user-attachments/files/24358005/style.css)
+[services.html](https://github.com/user-attachments/files/24358004/services.html)
+[script.js](https://github.com/user-attachments/files/24358003/script.js)
+[Market.html](https://github.com/user-attachments/files/24358002/Market.html)
+[insights.html](https://github.com/user-attachments/files/24358001/insights.html)
+[Innovation.html](https://github.com/user-attachments/files/24358000/Innovation.html)
+[index.html](https://github.com/user-attachments/files/24357999/index.html)
+[enterprise.html](https://github.com/user-attachments/files/24357998/enterprise.html)
+[contact.js](https://github.com/user-attachments/files/24357997/contact.js)
+[contact.html](https://github.com/user-attachments/files/24357996/contact.html)
+[case-studies.html](https://github.com/user-attachments/files/24357995/case-studies.html)
